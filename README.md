@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Slides/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Slides?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Slides/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Slides?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Slides/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Slides?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="#-how-to-contribute"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"/></a>
@@ -64,69 +64,69 @@
 
 ## 💻 Open-Source GitHub Projects
 
-*The following open-source engines, CLI utilities, and developer frameworks are sorted descending by **GitHub Stars**.*
+*The following open-source engines, CLI utilities, and developer frameworks are sorted descending by **GitHub_Stars**.*
 
-1. **[reveal.js](https://github.com/hakimel/reveal.js)** [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers) `MIT`  
+1. **[reveal.js](https://github.com/hakimel/reveal.js)** [![GitHub_Stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers) `MIT`  
    The foundational HTML presentation framework. Create modern interactive slides using HTML or Markdown with nested 2D slides, speaker notes, PDF exports, and an extensive plugin ecosystem.
 
-2. **[PPT Master](https://github.com/hugohe3/ppt-master)** [![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master?style=social&color=white)](https://github.com/hugohe3/ppt-master/stargazers) `Apache-2.0`  
+2. **[PPT Master](https://github.com/hugohe3/ppt-master)** [![GitHub_Stars](https://img.shields.io/github/stars/hugohe3/ppt-master?style=social&color=white)](https://github.com/hugohe3/ppt-master/stargazers) `Apache-2.0`  
    AI agent that turns documents or topic prompts into native Microsoft PowerPoint (`.pptx`) decks with real vector shapes, transitions, animations, on-demand data charts, and audio narration.
 
-3. **[Slidev](https://github.com/slidevjs/slidev)** [![GitHub stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers) `MIT`  
+3. **[Slidev](https://github.com/slidevjs/slidev)** [![GitHub_Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=social&color=white)](https://github.com/slidevjs/slidev/stargazers) `MIT`  
    Presentation slides for developers powered by Vue and Vite. Write Markdown with Vue components, syntax highlighting, live coding, LaTeX formulas, Mermaid diagrams, and PDF/PNG/PPTX exports.
 
-4. **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers) `GPL-2.0`  
+4. **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub_Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers) `GPL-2.0`  
    The Swiss Army knife universal markup converter. Transforms Markdown and reStructuredText into PowerPoint (`.pptx`), LaTeX Beamer (`.pdf`), reveal.js, Slidy, and DZSlides.
 
-5. **[impress.js](https://github.com/impress/impress.js)** [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers) `MIT`  
+5. **[impress.js](https://github.com/impress/impress.js)** [![GitHub_Stars](https://img.shields.io/github/stars/impress/impress.js?style=social&color=white)](https://github.com/impress/impress.js/stargazers) `MIT`  
    Presentation framework based on the power of CSS3 transforms and transitions in modern web browsers. Enables nonlinear, 3D infinite canvas presentations with zoom, tilt, and pan.
 
-6. **[Remark](https://github.com/gnab/remark)** [![GitHub stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers) `MIT`  
+6. **[Remark](https://github.com/gnab/remark)** [![GitHub_Stars](https://img.shields.io/github/stars/gnab/remark?style=social&color=white)](https://github.com/gnab/remark/stargazers) `MIT`  
    Simple, in-browser, Markdown-driven slideshow tool. Formats Markdown into standalone HTML slides with syntax highlighting, dual-screen presenter view, and zero build setup.
 
-7. **[Marp](https://github.com/marp-team/marp)** [![GitHub stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers) `MIT`  
+7. **[Marp](https://github.com/marp-team/marp)** [![GitHub_Stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers) `MIT`  
    The entry repository for the Markdown Presentation Ecosystem. Converts plain Markdown into slide decks via CLI, VS Code extension, or web frameworks with custom CSS themes and PDF/PPTX export.
 
-8. **[Slides (Terminal)](https://github.com/maaslalani/slides)** [![GitHub stars](https://img.shields.io/github/stars/maaslalani/slides?style=social&color=white)](https://github.com/maaslalani/slides/stargazers) `MIT`  
+8. **[Slides (Terminal)](https://github.com/maaslalani/slides)** [![GitHub_Stars](https://img.shields.io/github/stars/maaslalani/slides?style=social&color=white)](https://github.com/maaslalani/slides/stargazers) `MIT`  
    Terminal-based presentation tool written in Go. Allows developers to present directly from their command-line interface with Markdown parsing, syntax highlighting, and live code execution.
 
-9. **[mdx-deck](https://github.com/jxnblk/mdx-deck)** [![GitHub stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers) `MIT`  
+9. **[mdx-deck](https://github.com/jxnblk/mdx-deck)** [![GitHub_Stars](https://img.shields.io/github/stars/jxnblk/mdx-deck?style=social&color=white)](https://github.com/jxnblk/mdx-deck/stargazers) `MIT`  
    React MDX-based presentation decks. Write slide decks using MDX to seamlessly embed interactive React components, styled-system themes, presenter mode, and PDF exports.
 
-10. **[Spectacle](https://github.com/FormidableLabs/spectacle)** [![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers) `MIT`  
+10. **[Spectacle](https://github.com/FormidableLabs/spectacle)** [![GitHub_Stars](https://img.shields.io/github/stars/FormidableLabs/spectacle?style=social&color=white)](https://github.com/FormidableLabs/spectacle/stargazers) `MIT`  
     React-based library for creating sleek presentations using JSX syntax. Offers real-time live code demonstrations, modular slide templates, auto-formatting, and presenter notes.
 
-11. **[WebSlides](https://github.com/webslides/WebSlides)** [![GitHub stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers) `MIT`  
+11. **[WebSlides](https://github.com/webslides/WebSlides)** [![GitHub_Stars](https://img.shields.io/github/stars/webslides/WebSlides?style=social&color=white)](https://github.com/webslides/WebSlides/stargazers) `MIT`  
     Modular HTML and CSS presentation framework. Focused on clean typography, accessibility, and simplicity to build corporate slide decks, portfolios, and landing pages using semantic HTML.
 
-12. **[Quarto CLI](https://github.com/quarto-dev/quarto-cli)** [![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social&color=white)](https://github.com/quarto-dev/quarto-cli/stargazers) `GPL-2.0`  
+12. **[Quarto CLI](https://github.com/quarto-dev/quarto-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social&color=white)](https://github.com/quarto-dev/quarto-cli/stargazers) `GPL-2.0`  
     Scientific and technical publishing system built on Pandoc. Outputs computational presentations via Reveal.js, PowerPoint, and Beamer with embedded Python, R, Julia, and Observable code cells.
 
-13. **[Fusuma](https://github.com/hiroppy/fusuma)** [![GitHub stars](https://img.shields.io/github/stars/hiroppy/fusuma?style=social&color=white)](https://github.com/hiroppy/fusuma/stargazers) `MIT`  
+13. **[Fusuma](https://github.com/hiroppy/fusuma)** [![GitHub_Stars](https://img.shields.io/github/stars/hiroppy/fusuma?style=social&color=white)](https://github.com/hiroppy/fusuma/stargazers) `MIT`  
     Tool for building slide decks using Markdown, CSS, and React. Supports live coding, timeline charts, presenter display, responsive layouts, and zero-configuration PDF generation.
 
-14. **[Bespoke.js](https://github.com/bespokejs/bespoke)** [![GitHub stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=social&color=white)](https://github.com/bespokejs/bespoke/stargazers) `MIT`  
+14. **[Bespoke.js](https://github.com/bespokejs/bespoke)** [![GitHub_Stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=social&color=white)](https://github.com/bespokejs/bespoke/stargazers) `MIT`  
     Ultra-lightweight DIY presentation micro-framework (~1KB). Provides a barebones slide harness with dozens of modular plugins for keys, touch gestures, animations, and VR support.
 
-15. **[Marp CLI](https://github.com/marp-team/marp-cli)** [![GitHub stars](https://img.shields.io/github/stars/marp-team/marp-cli?style=social&color=white)](https://github.com/marp-team/marp-cli/stargazers) `MIT`  
+15. **[Marp CLI](https://github.com/marp-team/marp-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/marp-team/marp-cli?style=social&color=white)](https://github.com/marp-team/marp-cli/stargazers) `MIT`  
     Official command-line interface for Marp and Marpit converters. Automates batch generation and headless conversion of Markdown slide decks into HTML, PDF, PPTX, and image snapshots.
 
-16. **[DeckTape](https://github.com/astefanutti/decktape)** [![GitHub stars](https://img.shields.io/github/stars/astefanutti/decktape?style=social&color=white)](https://github.com/astefanutti/decktape/stargazers) `MIT`  
+16. **[DeckTape](https://github.com/astefanutti/decktape)** [![GitHub_Stars](https://img.shields.io/github/stars/astefanutti/decktape?style=social&color=white)](https://github.com/astefanutti/decktape/stargazers) `MIT`  
     High-quality automated PDF exporter for HTML presentation frameworks. Headless Chromium-based exporter compatible with reveal.js, Remark, Marp, WebSlides, DZSlides, and shower.
 
-17. **[Landslide](https://github.com/adamzap/landslide)** [![GitHub stars](https://img.shields.io/github/stars/adamzap/landslide?style=social&color=white)](https://github.com/adamzap/landslide/stargazers) `Apache-2.0`  
+17. **[Landslide](https://github.com/adamzap/landslide)** [![GitHub_Stars](https://img.shields.io/github/stars/adamzap/landslide?style=social&color=white)](https://github.com/adamzap/landslide/stargazers) `Apache-2.0`  
     Python command-line slideshow generator. Compiles Markdown, ReStructuredText, or Textile documents into standalone HTML5 presentations with themes and syntax highlighting.
 
-18. **[AiPPT](https://github.com/veasion/AiPPT)** [![GitHub stars](https://img.shields.io/github/stars/veasion/AiPPT?style=social&color=white)](https://github.com/veasion/AiPPT/stargazers) `Apache-2.0`  
+18. **[AiPPT](https://github.com/veasion/AiPPT)** [![GitHub_Stars](https://img.shields.io/github/stars/veasion/AiPPT?style=social&color=white)](https://github.com/veasion/AiPPT/stargazers) `Apache-2.0`  
     Open-source AI presentation generator that converts topics, documents, or URLs into structured PowerPoint decks. Supports native charts, 3D animations, custom templates, and online preview.
 
-19. **[Hovercraft](https://github.com/regebro/hovercraft)** [![GitHub stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers) `MIT`  
+19. **[Hovercraft](https://github.com/regebro/hovercraft)** [![GitHub_Stars](https://img.shields.io/github/stars/regebro/hovercraft?style=social&color=white)](https://github.com/regebro/hovercraft/stargazers) `MIT`  
     Python utility creating 3D impress.js presentations from reStructuredText. Combines text authoring with 3D spatial positioning, presenter console, and math typesetting.
 
-20. **[Marpit](https://github.com/marp-team/marpit)** [![GitHub stars](https://img.shields.io/github/stars/marp-team/marpit?style=social&color=white)](https://github.com/marp-team/marpit/stargazers) `MIT`  
+20. **[Marpit](https://github.com/marp-team/marpit)** [![GitHub_Stars](https://img.shields.io/github/stars/marp-team/marpit?style=social&color=white)](https://github.com/marp-team/marpit/stargazers) `MIT`  
     The core skinny slide deck framework powering the Marp ecosystem. Transforms Markdown and CSS into responsive slide HTML/CSS markup without any heavy JavaScript runtime dependencies.
 
-21. **[DZSlides](https://github.com/paulrouget/dzslides)** [![GitHub stars](https://img.shields.io/github/stars/paulrouget/dzslides?style=social&color=white)](https://github.com/paulrouget/dzslides/stargazers) `DWTFYWTPL`  
+21. **[DZSlides](https://github.com/paulrouget/dzslides)** [![GitHub_Stars](https://img.shields.io/github/stars/paulrouget/dzslides?style=social&color=white)](https://github.com/paulrouget/dzslides/stargazers) `DWTFYWTPL`  
     Single-file HTML5 presentation template. Compact zero-dependency boilerplate for rendering slides in modern browsers with integrated keyboard navigation and presenter notes.
 
 ---
@@ -158,7 +158,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-tool-name`)
 3. 📝 **Add or update an entry** following the existing format:
    * **For SaaS**: Name, URL, Company Size / Valuation, Starting Tier Price, Free Tier Limits, and a factual description.
-   * **For Open-Source**: Name, Repository link, GitHub stars badge (`style=social&color=white`), license, and description.
+   * **For Open-Source**: Name, Repository link, GitHub_Stars_Badge (`style=social&color=white`), license, and description.
 4. 🚀 **Submit a Pull Request** with a brief summary of the addition or change.
 
 ---
